@@ -5,3 +5,5 @@ Following are the tentative course outlines.
 <img width="618" alt="Course_Outline" src="https://user-images.githubusercontent.com/24310094/218242892-eb7165d2-6f77-43bd-9a26-8fed753e76c7.PNG">
 
 
+
+I am editing the README file. Adding some more details about the project description.
